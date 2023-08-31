@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="without_rain_nthere_is_no_life">Without rain\nthere is no life</string>
+    <string name="design_by_n_kanhaiya">Design By\n Kanhaiya</string>
+    <string name="today">Today</string>
+    <string name="max_00_00">Max:00:00 ℃</string>
+    <string name="sunny">sunny</string>
+    <string name="_00_00">00:00 ℃</string>
+    <string name="min_00_00">Min:00:00 ℃</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="_29th_august">29th August</string>
+    <string name="_00">00 %</string>
+    <string name="_0_00m_s">0.00m/s</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="sunny_">sunny</string>
+    <string name="condition">Condition</string>
+    <string name="_00_00_">00:00</string>
+    <string name="sunset">Sunset</string>
+    <string name="_0000_hpa">0000 hPa</string>
+    <string name="humidity">Humidity</string>
+</resources>
